@@ -1,4 +1,4 @@
-# BigroOS
+t# BigroOS
 
 **BigroOS** is a 32-bit operating system kernel written primarily in C, with some components in Assembly, Makefile, and Shell scripts.
 
@@ -36,20 +36,22 @@ BigroOS is an educational project aimed at developing a simple 32-bit kernel. Th
 To build and run BigroOS, follow these steps:
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/BISHER-AL-MASRI/BigroOS.git
-    cd BigroOS
-    ```
+
+   ```sh
+   git clone https://github.com/BISHER-AL-MASRI/BigroOS.git
+   cd BigroOS
+   ```
 
 2. Build the kernel:
-    ```sh
-    make all
-    ```
+
+   ```sh
+   make all
+   ```
 
 3. Run the kernel (using QEMU, for example):
-    ```sh
-    make run
-    ```
+   ```sh
+   make run
+   ```
 
 ## Usage
 
